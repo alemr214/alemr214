@@ -11,9 +11,11 @@
 ### [To-do app](https://task214.netlify.app/)
 Build a sleek and efficient To-Do List using React. Add, check off, and remove tasks with ease, showcasing React dynamic UI capabilities.
 
-### [Bankist app](Link_to_Repository)
-Craft a functional website using pure JavaScript for basic interactivity and Sass for enhanced styling. Experience smooth navigation and polished design while highlighting the synergy between lightweight scripting and powerful CSS preprocessing.
+### [Bankist app](https://bankist-app214.netlify.app/)
+Functional website using pure JavaScript for basic interactivity and Sass for enhanced styling. Experience smooth navigation and polished design while highlighting the synergy between lightweight scripting and powerful CSS preprocessing.
 
+### [Join Travel app](https://join-travel214.netlify.app/)
+Modern and visually stunning website using the Tailwind CSS framework. Achieve responsive designs and sleek user interfaces with Tailwind's utility classes, streamlining the development process.
 ## Technologies and Languages ⚛️
 
 - Frontend: JavaScript, React, Sass <i class="devicon-javascript-plain colored"></i><i class="devicon-react-original colored"></i><i class="devicon-sass-original colored"></i>
