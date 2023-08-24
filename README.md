@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Alejandro
 
-![Profile Image]((https://github.com/account))
+![Profile Image]([(https://github.com/account)](https://avatars.githubusercontent.com/u/48821287?v=4))
 
 ## About Me 👨‍💻
 
