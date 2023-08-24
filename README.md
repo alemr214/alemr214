@@ -1,15 +1,33 @@
-<h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">I'm a web dev, I'm studying at Instituto Tecnologico de Veracruz as Software Engineer.</h3>
+# Hello there! 👋 I'm Alejandro
 
+![Profile Image](URL_to_your_profile_image)
 
-- 🌱 I’m currently learning **React, Django, and TypeScript**
+## About Me 👨‍💻
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/alemr214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alemr214" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ale_mr0214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ale_mr0214" height="30" width="40" /></a>
-</p>
+🌱I'm currently learning to be a full-stack developer, I'm a person who loves building beautiful and robust websites. With a background in full-stack development, I excel in both frontend and backend technologies.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Featured Projects 🚀
 
+### [To-do app](https://task214.netlify.app/)
+Build a sleek and efficient To-Do List using React. Add, check off, and remove tasks with ease, showcasing React dynamic UI capabilities.
+
+### [Bankist app](Link_to_Repository)
+Craft a functional website using pure JavaScript for basic interactivity and Sass for enhanced styling. Experience smooth navigation and polished design while highlighting the synergy between lightweight scripting and powerful CSS preprocessing.
+
+## Technologies and Languages ⚛️
+
+- Frontend: JavaScript, React, Sass <i class="devicon-javascript-plain colored"></i><i class="devicon-react-original colored"></i><i class="devicon-sass-original colored"></i>
+- Backend: Python, Django <i class="devicon-python-plain colored"></i><i font-size="200" class="devicon-django-plain"></i>
+- Database: MySQL <i class="devicon-mysql-plain-wordmark colored"></i>
+- Version Control: Git <i class="devicon-git-plain colored"></i>
+
+## Current Focus 🤓
+
+I'm currently refining my skills in building dynamic user interfaces with TypeScript and Next.js. Simultaneously, I'm working on enhancing my backend capabilities using Python and Django to create robust and scalable applications.
+
+## Contact 💬
+
+Feel free to reach out to me via email at ale.mr0214@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/alejandro-martínez-rivera-43956a226/) <i class="devicon-linkedin-plain colored"></i> and [Twitter](https://twitter.com/alemr214) <i class="devicon-twitter-original colored"></i>.
+
+<Images>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
