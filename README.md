@@ -8,7 +8,7 @@
 
 ## Featured Projects 🚀
 
-### [To-do app](https://task214.netlify.app/)
+### [To-do app](https://to-do214.netlify.app/)
 Build a sleek and efficient To-Do List using React. Add, check off, and remove tasks with ease, showcasing React dynamic UI capabilities.
 
 ### [Bankist app](https://bankist-app214.netlify.app/)
