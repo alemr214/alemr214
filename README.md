@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Alejandro
 
-![Profile Image](URL_to_your_profile_image)
+![Profile Image]((https://github.com/account))
 
 ## About Me 👨‍💻
 
