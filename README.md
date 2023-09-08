@@ -8,6 +8,9 @@
 
 ## Featured Projects 🚀
 
+#### [Pokedex](https://poke-app214.netlify.app/)
+A simple webpage using PokeAPI, React, and Bootstrap, with functions like modals and filtering by name.
+
 ### [To-do app](https://to-do214.netlify.app/)
 Build a sleek and efficient To-Do List using React. Add, check off, and remove tasks with ease, showcasing React dynamic UI capabilities.
 
