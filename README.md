@@ -1,9 +1,9 @@
 # Hi, I'm Alejandro 👋 | Computer Systems Engineer & Data Scientist
 
-<a href="https://www.linkedin.com/in/alemr214/">
+<a href="https://www.linkedin.com/in/alemr214/" target="_blank">
   <img align="right" alt="Alejandro's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-<a href="https://www.alemr.com">
+<a href="https://www.alemr.com" target="_blank">
   <img align="right" alt="Alejandro's Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/htmx/htmx-original.svg" style="padding-right:10px;" />
 </a>
 
@@ -50,10 +50,10 @@ Here are some of the key technologies and tools I work with:
 
 ### 🚀 Featured Projects
 
-<a href="https://github.com/alemr214/polyp-detection">
+<a href="https://github.com/alemr214/polyp-detection" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alemr214&repo=polyp-detection&theme=dracula&show_owner=true" />
 </a>
-<a href="https://github.com/alemr214/cimat-pedigri-forense">
+<a href="https://github.com/alemr214/cimat-pedigri-forense" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alemr214&repo=cimat-pedigri-forense&theme=dracula&show_owner=true" />
 </a>
 
@@ -64,7 +64,7 @@ Here are some of the key technologies and tools I work with:
 Feel free to reach out if you want to collaborate on a project, have a question, or just want to connect.
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@alemr.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-martínez-rivera-43956a226/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alemr214/)
 [![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/alemr214/)
 
 ---
