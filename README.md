@@ -28,6 +28,8 @@ Here are some of the key technologies and tools I work with:
 #### 📊🤖 Computer Vision & Data Science & Machine Learning
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/ultralytics-111F68?style=for-the-badge&logo=ultralytics&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Mediapipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -64,6 +66,7 @@ Feel free to reach out if you want to collaborate on a project, have a question,
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@alemr.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-martínez-rivera-43956a226/)
+[![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/alemr214/)
 
 ---
 
