@@ -24,7 +24,8 @@ Here are some of the key technologies and tools I work with:
 ![FastAPI](https://img.shields.io/badge/Fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 #### 📊🤖 Computer Vision & Data Science & Machine Learning
 
 ![OpenCV](https://img.shields.io/badge/Opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
