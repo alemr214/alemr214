@@ -7,7 +7,7 @@
   <img align="right" alt="Alejandro's Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/htmx/htmx-original.svg" style="padding-right:10px;" />
 </a>
 
-A Computer Systems Engineer specializing in **Data Science**, enthusiastic about **Computer Vision** and **Machine Learning**. I am passionate about leveraging data-driven insights and building intelligent systems to solve complex, real-world problems. My background in engineering, combined with my expertise in programming and mathematics, allows me to design, develop, and deploy robust ML solutions.
+Computer Systems Engineering student specializing in Data Science with experience in machine learning, computer vision, data analysis, and backend development. Skilled in designing and implementing end-to-end solutions using modern artificial intelligence and software engineering technologies. Passionate about leveraging data-driven technologies to solve real-world problems through innovation, collaboration, and continuous learning.
 
 ---
 
